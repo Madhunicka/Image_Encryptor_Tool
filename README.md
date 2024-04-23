@@ -1,9 +1,10 @@
-## For Encryption
-Step 1:
-Run the python file --> python fileName.py
-Step 2:
-After running the file the UI will display
-![Screenshot 2024-04-24 020616](https://github.com/Madhunicka/Image_Encryptor_Tool/assets/77634975/d192cfe1-7218-420b-9049-e066b1ad9de3)
+# For Encryption
+## Step 1:
+### Run the python file --> python fileName.py
+
+## Step 2:
+### After running the file the UI will display
+<img src="![Screenshot 2024-04-24 020616](https://github.com/Madhunicka/Image_Encryptor_Tool/assets/77634975/d192cfe1-7218-420b-9049-e066b1ad9de3)">
 
 Type a key in the text field
 ![Screenshot 2024-04-24 020637](https://github.com/Madhunicka/Image_Encryptor_Tool/assets/77634975/ab2c991f-52d9-4b9d-a232-03f300fe37af)
